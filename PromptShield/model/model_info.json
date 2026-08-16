@@ -1,0 +1,11 @@
+{
+  "model_name": "Logistic Regression",
+  "best_params": {
+    "C": 1,
+    "class_weight": null
+  },
+  "test_accuracy": 0.9987244897959183,
+  "test_precision": 0.9974554707379135,
+  "test_recall": 1.0,
+  "test_f1": 0.9987261146496815
+}
